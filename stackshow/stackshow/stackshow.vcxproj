@@ -80,9 +80,12 @@
   <ItemGroup>
     <ClCompile Include="test.c" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClInclude Include="test.h" />
   </ItemGroup>
+=======
+>>>>>>> 524c32577a6a91a4ff6e61be3a3eab62f2012481
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -19,9 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClInclude Include="test.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
+=======
+>>>>>>> 524c32577a6a91a4ff6e61be3a3eab62f2012481
 </Project>
