@@ -36,4 +36,4 @@ int main()
 	printf("前%d项和为%d\n", items, count);
 	system("pause");
 	return 0;
-}
+}//2018.11.3
